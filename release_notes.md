@@ -7,7 +7,7 @@ A new **Voice Recognition** feature in our *AI Assistant* widget helps streamlin
 ### Key Highlights
 - **Press and Hold**: Activate the voice input by pressing and holding the microphone icon.
 - **Automatic Stop**: Voice recording stops automatically when the microphone is released, simplifying the input process.
-- **Quick Send**: After recording, press **Enter** to immediately send the response for processing.
+- **Quick Send**: After recording, press **Enter** to send the response for processing.
 
 > [!Note]
 > This feature is currently unsupported on the Firefox browser.
