@@ -18,7 +18,7 @@ Click the icon to open the The **FortiAI** bot dialog to begin your interaction 
 To manually clear a conversation in the bot, click the **Clear Conversation** button.
 
 >[!Note]
->Clearing a conversation deletes the thread and hence generative AIs, like OpenAI, may lose context.
+>Clearing a conversation deletes the conversation and starts a new thread. Hence generative AIs, like OpenAI, may lose context.
 
 ## Voice Recognition
 
@@ -37,6 +37,9 @@ Use voice commands to generate playbooks or perform myriad of tasks. This sectio
 
 >[!Tip]
 > Speak, instead of typing, any of the subsequent commands and see the magic unfold! 
+
+> [!Note]
+> The *Voice Recognition* feature is currently unsupported on the Firefox browser as the webkit `SpeechRecognition` is not compatible with Mozilla Firefox. Hence, the mic button is not available when the FortiSOAR&trade; environment is accessed using the Firefox browser.
 
 ## Playbooks Generation
 

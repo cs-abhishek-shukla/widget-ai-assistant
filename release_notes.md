@@ -9,7 +9,7 @@ A new **Voice Recognition** feature in our *AI Assistant* widget helps streamlin
 - **Automatic Stop**: Voice recording stops automatically when the microphone is released, simplifying the input process.
 - **Quick Send**: After recording, press **Enter** to send the response for processing.
 
-> [!Note]
-> This feature is currently unsupported on the Firefox browser.
-
 Try the Voice Recognition feature to elevate your SOC workflow!
+
+> [!Note]
+> The *Voice Recognition* feature is currently unsupported on the Firefox browser as the webkit `SpeechRecognition` is not compatible with Mozilla Firefox. Hence, the mic button is not available when the FortiSOAR&trade; environment is accessed using the Firefox browser.
