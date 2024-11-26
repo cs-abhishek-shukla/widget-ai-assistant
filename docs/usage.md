@@ -18,7 +18,7 @@ Click the icon to open the The **FortiAI** bot dialog to begin your interaction 
 To manually clear a conversation in the bot, click the **Clear Conversation** button.
 
 >[!Note]
->Clearing a conversation deletes the conversation and starts a new thread. Hence generative AIs, like OpenAI, may lose context.
+>Clearing a conversation starts a new thread while retaining the old thread in OpenAI. However, since a new thread is created, generative AIs, like OpenAI, may lose context.
 
 ## Voice Recognition
 
