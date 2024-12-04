@@ -24,7 +24,8 @@ To manually clear a conversation in the bot, click the **Clear Conversation** bu
 
 Use voice commands to generate playbooks or perform myriad of tasks. This section explains how to use the bot's voice recognition feature
 
-1. Click to launch a relevant module for the bot icon to appear. For example, *Alerts*, *Incidents*, and *Playbooks* are some modules on which the bot icon appears.
+1. Click to launch a relevant module for the bot icon to appear. For example, *Alerts*, *Incidents*, and *indicators* are some modules on which the bot icon appears. The bot can also be launched on playbook designer interface to help draft playbooks.
+
 2. Click the <img src="./res/icon-bot.png" width="35px" alt="AI Bot"> icon to open the **FortiAI** bot.
 
 3. Click and hold the <img src="./res/icon-microphone.svg" width="15px" alt="microphone"> icon to speak your command. Release the mic when done. For example, you can say:
